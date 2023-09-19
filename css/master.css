@@ -1495,6 +1495,10 @@ nav > ul {
     border-radius: 50%;
 }
 
+.boxes-parent > :first-child .txt-box::before {
+    background-image: url(../images/nasser.jpg); 
+}
+
 .boxes-parent > :nth-child(2) .txt-box::before {
     background-image: url(../images/s-aboosh.jpg); 
 }
