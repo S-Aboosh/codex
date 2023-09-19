@@ -1382,9 +1382,21 @@ nav > ul {
     padding: 80px 0;
 }
 
-@media (max-width: 686px) {
+@media (max-width: 393px){
     .testimonial {
-        height: 100em ;
+        height: 110em;
+    }
+}
+
+@media (min-width: 394px) {
+    .testimonial {
+        height: 103em ;
+    }
+}
+
+@media (min-width: 537px) {
+    .testimonial {
+        height: 96em;
     }
 }
 
