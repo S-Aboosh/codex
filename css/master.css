@@ -3264,11 +3264,18 @@ footer {
     color: #b9b9b9;
     padding: 14px 18px;
     transition: var(--main-transition);
+    border-radius: 6px;
 }
 
 .our-social-media > *:hover {
     background-color: var(--main-color);
 }
+
+.our-social-media :nth-child(2):hover {
+    background-color: #009611;
+
+}
+
 
 .our-social-media > :last-child:hover {
     background-color: red;
