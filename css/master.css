@@ -1377,30 +1377,26 @@ nav > ul {
 /* Start Testimonials */
 .testimonial {
     width: 100%;
-    height: 63em;
-    /* background-color: #ececec; */
-    background-color: #1787e0;
+    height: 90em;
+    background-color: #1a16e9;
     padding: 80px 0;
 }
 
 @media (max-width: 393px){
     .testimonial {
         height: 115em;
-        background-color: yellow;
     }
 }
 
 @media (min-width: 394px) {
     .testimonial {
         height: 103em ;
-        background-color: green;
     }
 }
 
 @media (min-width: 537px) {
     .testimonial {
-        height: 120em;
-        background-color: red;
+        height: 96em;
     }
 }
 
