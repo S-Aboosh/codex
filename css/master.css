@@ -1385,18 +1385,21 @@ nav > ul {
 @media (max-width: 393px){
     .testimonial {
         height: 115em;
+        background-color: yellow;
     }
 }
 
 @media (min-width: 394px) {
     .testimonial {
         height: 103em ;
+        background-color: green;
     }
 }
 
 @media (min-width: 537px) {
     .testimonial {
         height: 120em;
+        background-color: red;
     }
 }
 
