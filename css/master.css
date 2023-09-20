@@ -1384,19 +1384,19 @@ nav > ul {
 
 @media (max-width: 393px){
     .testimonial {
-        height: 120em;
+        height: 115em;
     }
 }
 
 @media (min-width: 394px) {
     .testimonial {
-        height: 120em ;
+        height: 103em ;
     }
 }
 
 @media (min-width: 537px) {
     .testimonial {
-        height: 100em;
+        height: 120em;
     }
 }
 
